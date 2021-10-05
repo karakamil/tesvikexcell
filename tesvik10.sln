@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tesvik10", "tesvik10.csproj", "{C8FD4CE8-505C-4861-9E90-61F1763B8166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfOku", "..\PdfOku\PdfOku.csproj", "{C0D2ACE6-BB52-44EF-8D5D-E960E18EACB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf Oku", "..\..\..\..\Desktop\pdf okusqlite\Pdf Oku\Pdf Oku.csproj", "{C0AE7CFF-9126-48C7-9CE4-D069FD1DC6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FD4CE8-505C-4861-9E90-61F1763B8166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FD4CE8-505C-4861-9E90-61F1763B8166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FD4CE8-505C-4861-9E90-61F1763B8166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FD4CE8-505C-4861-9E90-61F1763B8166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D2ACE6-BB52-44EF-8D5D-E960E18EACB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D2ACE6-BB52-44EF-8D5D-E960E18EACB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D2ACE6-BB52-44EF-8D5D-E960E18EACB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D2ACE6-BB52-44EF-8D5D-E960E18EACB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AE7CFF-9126-48C7-9CE4-D069FD1DC6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AE7CFF-9126-48C7-9CE4-D069FD1DC6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AE7CFF-9126-48C7-9CE4-D069FD1DC6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AE7CFF-9126-48C7-9CE4-D069FD1DC6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862D5192-510B-404B-BB3A-5BB76D3A9596}
+	EndGlobalSection
+EndGlobal
